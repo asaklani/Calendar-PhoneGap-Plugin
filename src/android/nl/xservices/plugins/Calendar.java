@@ -1,14 +1,3 @@
-/*
- *  Licensed Materials - Property of IBM
- *  5725-G92 (C) Copyright IBM Corp. 2006, 2012. All Rights Reserved.
- *  US Government Users Restricted Rights - Use, duplication or
- *  disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
- */
-
-/** January 2015, Karthik Srinivasulu **/
-/**
- * Description: "Calendar" Class is a Calendar Plugin class for getting the Android device Calendar Events.  
- */
 package nl.xservices.plugins;
 
 import org.apache.cordova.CallbackContext;
